@@ -1,0 +1,47 @@
+.navbar {
+  background: #333;
+  opacity: 0.7;
+  border-bottom: 3px solid #086BD5; }
+
+body {
+  background: #333; }
+
+#home-section {
+  background: url("../img/header.jpg") no-repeat center;
+  background-size: cover;
+  min-height: 100vh; }
+  #home-section .dark-overlay {
+    background: rgba(0, 0, 0, 0.6);
+    min-height: 100vh; }
+  #home-section .home-inner {
+    padding-top: 140px;
+    padding-bottom: 10px; }
+  #home-section .card {
+    opacity: 0.8; }
+  #home-section .fa {
+    background: #fff;
+    color: #086BD5;
+    padding: 4px;
+    font-size: 30px;
+    border-radius: 5px; }
+
+#explore-body-section .fa {
+  background: #333;
+  color: #fff;
+  padding: 4px;
+  font-size: 30px;
+  border-radius: 5px; }
+
+#create-body-section .fa {
+  background: #fff;
+  color: #086BD5;
+  padding: 4px;
+  font-size: 30px;
+  border-radius: 5px; }
+
+#share-body-section .fa {
+  background: #333;
+  color: #fff;
+  padding: 4px;
+  border-radius: 5px;
+  font-size: 30px; }
